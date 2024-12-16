@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an "Unhandled JS Exception: require is not defined" error in a React Native project built with Expo. The error arises when using the require() statement to import local assets such as images. The solution demonstrates how to correctly import assets within an Expo environment.
